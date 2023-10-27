@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on improving various projects as well as coursework
 - 🌱 I’m currently learning Software development in TypeScript
 - 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: I have solved the Runik's cube in 28 secs
+- ⚡ Fun fact: I have solved the Rubik's cube in 28 secs
 > 📫 How to reach me:
 >> aryanballani@gmail.com
 >> 
