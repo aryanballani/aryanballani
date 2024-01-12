@@ -1,7 +1,8 @@
 ## Hi there 👋
 ## I am Aryan Ballani, I am persuing a combined major in computer science and statistics at the University if British Columbia.
 - 🔭 I’m currently working on improving various projects as well as coursework
-- 🌱 I’m currently learning Software development in TypeScript
+- 🧑‍💻 I love working with APIs and asynchronous HTML requests.
+- ⚙️ Constantly leaning and exploring new things related to Machine Learning.
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I have solved the Rubik's cube in 28 secs
 > 📫 How to reach me:
