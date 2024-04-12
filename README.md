@@ -10,6 +10,8 @@
 >> 
 >> [LinkedIn](https://www.linkedin.com/in/aryanballani/)
 
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aryanballani&show_icons=true&locale=en&theme=tokyonight" alt="aryanballani" /></p>
 ## Hit me up to collaborate on any projects
 
 
