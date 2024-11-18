@@ -5,7 +5,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+Github+Profile)
    
 </p>
-<p>I am persuing a combined major in computer science and statistics at the University if British Columbia. At the moment, I am on a coop as a Software QA at BC Liqour Distribution Branch.</p>
+<p>I am pursuing a combined major in computer science and statistics at the University if British Columbia. At the moment, I am on a coop as a Software QA at BC Liqour Distribution Branch.</p>
 
 - 🔭 I’m currently working on improving various projects as well as coursework as well.
 - 🧑‍💻 I love working with APIs and asynchronous HTML requests.
