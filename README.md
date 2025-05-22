@@ -5,7 +5,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+Github+Profile)
    
 </p>
-<p>I am pursuing a combined major in computer science and statistics at the University if British Columbia. At the moment, I am on a coop as a Software QA at BC Liqour Distribution Branch.</p>
+<p>I am pursuing a combined major in computer science and statistics at the University if British Columbia. At the moment, I am on a coop as a Machine learning Engineer @ RailtownAI Inc.</p>
 
 - 🔭 I’m currently working on improving various projects as well as coursework as well.
 - 🧑‍💻 I love working with APIs and asynchronous HTML requests.
@@ -25,7 +25,6 @@
 
 ---
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aryanballani&show_icons=true&locale=en&theme=great-gatsby" alt="Github Stats" /></p>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryanballani" alt="Github Streaks" /></p>
 <p align="center">&nbsp;<img align="center" src="https://spotify-recently-played-readme.vercel.app/api?user=31nf36pjohdkzwkpn6gyn45bizwa&count=3" alt="Spotify Activties" /></p>
 
 
